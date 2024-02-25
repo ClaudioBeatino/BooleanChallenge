@@ -1,0 +1,128 @@
+body{
+  background-image: url("immagini/background.jpg"); 
+  width: 1010px;
+  height: 839px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#contenitore{
+    margin: auto;
+    background-color: rgb(0, 0, 0, 0.5);
+    border-radius: 2%;
+    width: 1000px;
+    height: 690px;
+    right: 20px;
+    position: relative;
+    left: 430px;
+    margin-top: 64px;
+    
+    }
+   
+.Logo{
+    width: auto;
+    height: 100px;
+    margin: auto;
+    position: relative;
+    left: 400px;
+    margin-top: 80px;
+    
+}
+
+div > h3{
+    
+    font-size: 35px;
+    position: inherit;
+    color:#00DD00;
+
+    font-family: "Nunito", sans-serif;
+    
+    
+    left: 292px;
+    bottom: 32px;
+}
+
+.selettore{
+    margin: auto;
+    background-color: #00DD00;
+    width: 850px;
+    height: 40px;
+
+    position: relative;
+    bottom: 65px;
+    
+}
+
+.bottoni{
+    margin: auto;
+    position:relative;
+    left: 280px;
+    top: 10px;
+    
+}
+
+.user  {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+.carica, .via {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    position: relative;
+    left: 7px;
+}
+
+.indirizzi{
+    width: 80%;
+    position: relative;
+    left: 70px;
+    padding-top: 25px;
+    bottom: 80px;
+}
+
+
+.Arrow {
+    color: white;
+}
+
+.media{
+    margin: auto;
+    background-color: #FFBA68 ;
+    border-radius: 10px;
+    width: 350px;
+    height: 35px;
+   
+    position: relative;
+    right: 220px;
+    top: 4px;
+
+}
+
+.full{
+    margin: auto;
+    background-color: #14FF00 ;
+    border-radius: 10px;
+    width: 550px;
+    height: 35px;
+   
+    position: relative;
+    right: 125px;
+    top: 4px;
+
+}
+
+.scarica{
+    margin: auto;
+    background-color: #BE4141 ;
+    border-radius: 10px;
+    width: 130px;
+    height: 35px;
+   
+    position: relative;
+    right: 335px;
+    top: 4px;
+
+}
